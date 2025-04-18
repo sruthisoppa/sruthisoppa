@@ -21,7 +21,7 @@ I’m Sruthi, a passionate and curious B.Tech Computer Science student at SRM Un
 
 ---
 <h1 align="center">Hi 👋, I'm Soppa Sruthi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
